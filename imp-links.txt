@@ -1,0 +1,61 @@
+Lecture-1:
+
+Lecture-2:
+    Create react app using create-react-app
+        https://reactjs.org/docs/create-a-new-react-app.html
+
+Lecture-4:
+    Official documentation of react:
+        https://reactjs.org/docs/getting-started.html
+
+    Understanding JSX:
+        https://reactjs.org/docs/introducing-jsx.html
+
+Lecture-5:
+    Bootstrap:
+       https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+Lecture-6:
+    Components and Props:
+        https://reactjs.org/docs/components-and-props.html
+
+Lecture-6:
+    Typechecking with PropTypes:
+        https://reactjs.org/docs/typechecking-with-proptypes.html
+
+Lecture-7:
+    Textarea components from Bootstrap:
+        https://getbootstrap.com/docs/5.1/forms/form-control/
+
+Lecture-7: 
+    Button components from Bootstrap:
+        https://getbootstrap.com/docs/5.1/components/buttons/
+
+Lecture-7:
+    Hooks in react:
+        https://reactjs.org/docs/hooks-intro.html
+
+Lecture-7:
+    Use State / State Hook:
+        https://reactjs.org/docs/hooks-overview.html
+
+Lecture-10:
+    Bootstrap component ==> Accordian:
+        https://getbootstrap.com/docs/5.1/components/accordion/
+
+Lecture-12:
+    Bootstrap component ==> Check-radios:
+        https://getbootstrap.com/docs/5.1/forms/checks-radios/
+
+Lecture-13:
+    Bootstrap component ==> dismissing alerts
+        https://getbootstrap.com/docs/5.0/components/alerts/
+
+Lecture-15:
+    Favicons generator:
+        https://favicon.io/favicon-converter/
+
+Lecture-16:
+    react-router-dom:
+        https://reactrouter.com/web/guides/quick-start
+
